@@ -1,5 +1,5 @@
 # DataBase
-Um sistema de gerenciamento de banco de dados distribuído de alta escalabilidade
+Usando um MVP e uma Arquitetura de Microserviços, este projeto estará sempre se melhorando e no momento inicial usei um MVP para validar a ideia e ver o resultado final (Ao invés de fazer tudo de uma vez) 
 
 ### Componentes Principais:
 
